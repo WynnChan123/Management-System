@@ -1,2 +1,0 @@
-RPDst$DateLabelFormatter
-RPDst

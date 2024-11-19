@@ -1,2 +1,0 @@
-ProjectManagerGUI$1
-ProjectManagerGUI
